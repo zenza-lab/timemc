@@ -1,4 +1,4 @@
-# timemc v.1.0 
+# timemc v.1.0 (419 MB)
 timemc - большая сборка модов для minecraft 1.16.5 (forge). Автором сборки является internet culpable (mea culpa!) 
 # Список модов (21):
 1. BetterF3 (by TreyRuffy and cominixo)
